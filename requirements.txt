@@ -1,0 +1,4 @@
+flask==0.12.2
+flask-restplus==0.10.1
+flask-env==1.0.1
+flask-script
